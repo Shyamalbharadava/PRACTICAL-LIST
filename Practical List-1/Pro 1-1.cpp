@@ -2,8 +2,8 @@
 using namespace std;
 int main ()
 {
-  cout<<"I am bheda dhruv "<<endl;
-	cout<<"En_no    220130318012"<<endl;
+  cout<<"I am Bharadava Shyamal"<<endl;
+	cout<<"En_no    220130318069"<<endl;
     int num1, num2,sum,avg;
     cout<<"Enter num 1 :: ";
     cin>>num1;
